@@ -2,7 +2,21 @@ apiVersion: v1
 entries:
   atlassian-jira-software:
   - apiVersion: v1
-    created: 2018-02-21T05:08:37.811994365Z
+    created: 2018-02-21T08:14:24.631610674Z
+    description: Atlassian JIRA Software
+    digest: af0283ce627c8fb6b6658797ca28b81e2f0f0412d836bbe4f061fdc1aa26b849
+    home: https://www.atlassian.com/software/jira
+    maintainers:
+    - email: int128@gmail.com
+      name: Hidetake Iwata
+    name: atlassian-jira-software
+    sources:
+    - https://github.com/cptactionhank/docker-atlassian-jira-software
+    urls:
+    - atlassian-jira-software-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v1
+    created: 2018-02-21T08:14:24.631109019Z
     description: Atlassian JIRA Software
     digest: 75c9742d06cf267b4ecd4e19748bf2eb2978439cc090d9b0914e3441b1bf3920
     home: https://www.atlassian.com/software/jira
@@ -15,4 +29,4 @@ entries:
     urls:
     - atlassian-jira-software-1.0.0.tgz
     version: 1.0.0
-generated: 2018-02-21T05:08:37.811366633Z
+generated: 2018-02-21T08:14:24.6304941Z
