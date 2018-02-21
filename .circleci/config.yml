@@ -1,0 +1,16 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: alpine
+    environment:
+      - HELM_VERSION: 2.8.1
+    working_directory: ~/devops-kompose
+    steps:
+      - checkout
+      - run:
+          name: helm-github-pages
+          command: wget -O - https://raw.githubusercontent.com/int128/helm-github-pages/master/publish.sh | sh
+    branches:
+      ignore:
+        - gh-pages
