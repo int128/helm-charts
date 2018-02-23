@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   atlassian-jira-software:
   - apiVersion: v1
-    created: 2018-02-21T08:14:24.631610674Z
+    created: 2018-02-23T07:24:49.989872723Z
     description: Atlassian JIRA Software
     digest: af0283ce627c8fb6b6658797ca28b81e2f0f0412d836bbe4f061fdc1aa26b849
     home: https://www.atlassian.com/software/jira
@@ -16,7 +16,7 @@ entries:
     - atlassian-jira-software-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
-    created: 2018-02-21T08:14:24.631109019Z
+    created: 2018-02-23T07:24:49.989465667Z
     description: Atlassian JIRA Software
     digest: 75c9742d06cf267b4ecd4e19748bf2eb2978439cc090d9b0914e3441b1bf3920
     home: https://www.atlassian.com/software/jira
@@ -29,4 +29,4 @@ entries:
     urls:
     - atlassian-jira-software-1.0.0.tgz
     version: 1.0.0
-generated: 2018-02-21T08:14:24.6304941Z
+generated: 2018-02-23T07:24:49.988811831Z
