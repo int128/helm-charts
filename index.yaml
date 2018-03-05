@@ -1,0 +1,65 @@
+apiVersion: v1
+entries:
+  atlassian-jira-software:
+  - apiVersion: v1
+    created: 2018-03-05T09:48:02.498693+09:00
+    description: Atlassian JIRA Software
+    digest: af0283ce627c8fb6b6658797ca28b81e2f0f0412d836bbe4f061fdc1aa26b849
+    home: https://www.atlassian.com/software/jira
+    maintainers:
+    - email: int128@gmail.com
+      name: Hidetake Iwata
+    name: atlassian-jira-software
+    sources:
+    - https://github.com/cptactionhank/docker-atlassian-jira-software
+    urls:
+    - atlassian-jira-software/atlassian-jira-software-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v1
+    created: 2018-03-05T09:48:02.498246+09:00
+    description: Atlassian JIRA Software
+    digest: 75c9742d06cf267b4ecd4e19748bf2eb2978439cc090d9b0914e3441b1bf3920
+    home: https://www.atlassian.com/software/jira
+    maintainers:
+    - email: int128@gmail.com
+      name: Hidetake Iwata
+    name: atlassian-jira-software
+    sources:
+    - https://github.com/cptactionhank/docker-atlassian-jira-software
+    urls:
+    - atlassian-jira-software/atlassian-jira-software-1.0.0.tgz
+    version: 1.0.0
+  jira-to-slack:
+  - apiVersion: v1
+    created: 2018-03-05T09:48:02.500779+09:00
+    description: A Slack integration for notifying JIRA changes
+    digest: 548a1b435c189f07b07f97618167b556031f15c7f71b22a37e341d0460ffa1a8
+    name: jira-to-slack
+    urls:
+    - jira-to-slack/jira-to-slack-1.3.1.tgz
+    version: 1.3.1
+  - apiVersion: v1
+    created: 2018-03-05T09:48:02.502431+09:00
+    description: A Slack integration for notifying JIRA changes
+    digest: 8a7039231ab21c5fe98a18f76330fe22dd0f41e9cbde11f0108cb7c5fa6e0e78
+    name: jira-to-slack
+    urls:
+    - jira-to-slack/jira-to-slack-1.3.tgz
+    version: "1.3"
+  - apiVersion: v1
+    created: 2018-03-05T09:48:02.500105+09:00
+    description: A Slack integration for notifying JIRA changes
+    digest: 869ecebc9ec5e7b3ea05292019d9e13a70ff0b28b8972da64b8b2d6b6f67e523
+    name: jira-to-slack
+    urls:
+    - jira-to-slack/jira-to-slack-1.2.tgz
+    version: "1.2"
+  - apiVersion: v1
+    created: 2018-03-05T09:48:02.499427+09:00
+    description: A Slack integration for notifying JIRA changes
+    digest: 2bb7db602bc8c77b2bae241b4d0d34884f42e12b465aacdec717857f68399b44
+    name: jira-to-slack
+    urls:
+    - jira-to-slack/jira-to-slack-1.1.tgz
+    version: "1.1"
+generated: 2018-03-05T09:48:02.496208+09:00
