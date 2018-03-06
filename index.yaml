@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   atlassian-jira-software:
   - apiVersion: v1
-    created: 2018-03-05T08:11:54.496226702Z
+    created: 2018-03-06T07:44:21.670908211Z
     description: Atlassian JIRA Software
     digest: af0283ce627c8fb6b6658797ca28b81e2f0f0412d836bbe4f061fdc1aa26b849
     home: https://www.atlassian.com/software/jira
@@ -16,7 +16,7 @@ entries:
     - atlassian-jira-software/atlassian-jira-software-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
-    created: 2018-03-05T08:11:54.495801941Z
+    created: 2018-03-06T07:44:21.670505826Z
     description: Atlassian JIRA Software
     digest: 75c9742d06cf267b4ecd4e19748bf2eb2978439cc090d9b0914e3441b1bf3920
     home: https://www.atlassian.com/software/jira
@@ -31,7 +31,7 @@ entries:
     version: 1.0.0
   example:
   - apiVersion: v1
-    created: 2018-03-05T08:11:54.49660891Z
+    created: 2018-03-06T07:44:21.671261987Z
     description: A Helm chart for Kubernetes
     digest: d212847f0997beeead9e14a0461b4477399cdd6455a3ae97a3f0adcba9570cc6
     name: example
@@ -40,7 +40,15 @@ entries:
     version: 0.1.0
   jira-to-slack:
   - apiVersion: v1
-    created: 2018-03-05T08:11:54.497699447Z
+    created: 2018-03-06T07:44:21.672978919Z
+    description: A Slack integration for notifying JIRA changes
+    digest: 23221ddd39226cd6d97946610203efa1c8a49b411b8050ced64415ca71ccd24c
+    name: jira-to-slack
+    urls:
+    - jira-to-slack/jira-to-slack-1.4.tgz
+    version: "1.4"
+  - apiVersion: v1
+    created: 2018-03-06T07:44:21.672285783Z
     description: A Slack integration for notifying JIRA changes
     digest: 548a1b435c189f07b07f97618167b556031f15c7f71b22a37e341d0460ffa1a8
     name: jira-to-slack
@@ -48,7 +56,7 @@ entries:
     - jira-to-slack/jira-to-slack-1.3.1.tgz
     version: 1.3.1
   - apiVersion: v1
-    created: 2018-03-05T08:11:54.498053855Z
+    created: 2018-03-06T07:44:21.672624117Z
     description: A Slack integration for notifying JIRA changes
     digest: 8a7039231ab21c5fe98a18f76330fe22dd0f41e9cbde11f0108cb7c5fa6e0e78
     name: jira-to-slack
@@ -56,7 +64,7 @@ entries:
     - jira-to-slack/jira-to-slack-1.3.tgz
     version: "1.3"
   - apiVersion: v1
-    created: 2018-03-05T08:11:54.497331253Z
+    created: 2018-03-06T07:44:21.671949791Z
     description: A Slack integration for notifying JIRA changes
     digest: 869ecebc9ec5e7b3ea05292019d9e13a70ff0b28b8972da64b8b2d6b6f67e523
     name: jira-to-slack
@@ -64,11 +72,11 @@ entries:
     - jira-to-slack/jira-to-slack-1.2.tgz
     version: "1.2"
   - apiVersion: v1
-    created: 2018-03-05T08:11:54.4969667Z
+    created: 2018-03-06T07:44:21.671616579Z
     description: A Slack integration for notifying JIRA changes
     digest: 2bb7db602bc8c77b2bae241b4d0d34884f42e12b465aacdec717857f68399b44
     name: jira-to-slack
     urls:
     - jira-to-slack/jira-to-slack-1.1.tgz
     version: "1.1"
-generated: 2018-03-05T08:11:54.495187973Z
+generated: 2018-03-06T07:44:21.669777284Z
