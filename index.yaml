@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   atlassian-jira-software:
   - apiVersion: v1
-    created: 2018-05-01T00:00:54.135445937Z
+    created: 2018-05-08T06:11:09.1706485Z
     description: Atlassian JIRA Software
     digest: af0283ce627c8fb6b6658797ca28b81e2f0f0412d836bbe4f061fdc1aa26b849
     home: https://www.atlassian.com/software/jira
@@ -16,7 +16,7 @@ entries:
     - atlassian-jira-software/atlassian-jira-software-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
-    created: 2018-05-01T00:00:54.135004207Z
+    created: 2018-05-08T06:11:09.170083156Z
     description: Atlassian JIRA Software
     digest: 75c9742d06cf267b4ecd4e19748bf2eb2978439cc090d9b0914e3441b1bf3920
     home: https://www.atlassian.com/software/jira
@@ -31,7 +31,7 @@ entries:
     version: 1.0.0
   example:
   - apiVersion: v1
-    created: 2018-05-01T00:00:54.135832839Z
+    created: 2018-05-08T06:11:09.171131105Z
     description: A Helm chart for Kubernetes
     digest: d212847f0997beeead9e14a0461b4477399cdd6455a3ae97a3f0adcba9570cc6
     name: example
@@ -41,7 +41,7 @@ entries:
   gitbucket:
   - apiVersion: v1
     appVersion: 4.24.1
-    created: 2018-05-01T00:00:54.138302513Z
+    created: 2018-05-08T06:11:09.174268753Z
     description: A Helm chart for GitBucket
     digest: 52cdb1afbfd5fc77fc25a59a52ef5527809fbbead5e08aa8163384373caae69d
     name: gitbucket
@@ -50,7 +50,7 @@ entries:
     version: 4.24.1
   - apiVersion: v1
     appVersion: 4.24.0
-    created: 2018-05-01T00:00:54.13788521Z
+    created: 2018-05-08T06:11:09.173905585Z
     description: A Helm chart for GitBucket
     digest: fbf01b350f6829352d496b5b0874c3bc952bf6c8446d6f0051413f85e6085c1d
     name: gitbucket
@@ -59,7 +59,7 @@ entries:
     version: 4.24.0
   - apiVersion: v1
     appVersion: 4.23.1
-    created: 2018-05-01T00:00:54.137500676Z
+    created: 2018-05-08T06:11:09.173535662Z
     description: A Helm chart for GitBucket
     digest: d8eb14c437b1673fd11ed88a5c25ff51904c7d33f5c95706563120499cc3145a
     name: gitbucket
@@ -68,7 +68,7 @@ entries:
     version: 4.23.1
   - apiVersion: v1
     appVersion: 4.23.0
-    created: 2018-05-01T00:00:54.137060974Z
+    created: 2018-05-08T06:11:09.17312159Z
     description: A Helm chart for GitBucket
     digest: 336a415d27b544b5e0a89c3b0a166f15dc931e50f4e96a03a13858e78457f6e5
     name: gitbucket
@@ -77,7 +77,7 @@ entries:
     version: 4.23.0
   - apiVersion: v1
     appVersion: 4.22.0
-    created: 2018-05-01T00:00:54.136662401Z
+    created: 2018-05-08T06:11:09.172745207Z
     description: A Helm chart for GitBucket
     digest: 7309655673332461632d5d763497732c158fc5680def8c665b8f1266f9ede3be
     name: gitbucket
@@ -86,7 +86,7 @@ entries:
     version: 4.22.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-05-01T00:00:54.136233436Z
+    created: 2018-05-08T06:11:09.172340917Z
     description: A Helm chart for GitBucket
     digest: 5ffe1694a715a5c7673830498f6a10183be44ac47d443d0ec1e301fec06507e9
     name: gitbucket
@@ -95,7 +95,7 @@ entries:
     version: 1.0.0
   jira-to-slack:
   - apiVersion: v1
-    created: 2018-05-01T00:00:54.140055804Z
+    created: 2018-05-08T06:11:09.175942926Z
     description: A Slack integration for notifying JIRA changes
     digest: 23221ddd39226cd6d97946610203efa1c8a49b411b8050ced64415ca71ccd24c
     name: jira-to-slack
@@ -103,7 +103,7 @@ entries:
     - jira-to-slack/jira-to-slack-1.4.tgz
     version: "1.4"
   - apiVersion: v1
-    created: 2018-05-01T00:00:54.139355953Z
+    created: 2018-05-08T06:11:09.175268083Z
     description: A Slack integration for notifying JIRA changes
     digest: 548a1b435c189f07b07f97618167b556031f15c7f71b22a37e341d0460ffa1a8
     name: jira-to-slack
@@ -111,7 +111,7 @@ entries:
     - jira-to-slack/jira-to-slack-1.3.1.tgz
     version: 1.3.1
   - apiVersion: v1
-    created: 2018-05-01T00:00:54.13971121Z
+    created: 2018-05-08T06:11:09.175590516Z
     description: A Slack integration for notifying JIRA changes
     digest: 8a7039231ab21c5fe98a18f76330fe22dd0f41e9cbde11f0108cb7c5fa6e0e78
     name: jira-to-slack
@@ -119,7 +119,7 @@ entries:
     - jira-to-slack/jira-to-slack-1.3.tgz
     version: "1.3"
   - apiVersion: v1
-    created: 2018-05-01T00:00:54.139022985Z
+    created: 2018-05-08T06:11:09.174931493Z
     description: A Slack integration for notifying JIRA changes
     digest: 869ecebc9ec5e7b3ea05292019d9e13a70ff0b28b8972da64b8b2d6b6f67e523
     name: jira-to-slack
@@ -127,7 +127,7 @@ entries:
     - jira-to-slack/jira-to-slack-1.2.tgz
     version: "1.2"
   - apiVersion: v1
-    created: 2018-05-01T00:00:54.138651656Z
+    created: 2018-05-08T06:11:09.174610953Z
     description: A Slack integration for notifying JIRA changes
     digest: 2bb7db602bc8c77b2bae241b4d0d34884f42e12b465aacdec717857f68399b44
     name: jira-to-slack
@@ -136,11 +136,11 @@ entries:
     version: "1.1"
   kubernetes-dashboard-proxy:
   - apiVersion: v1
-    created: 2018-05-01T00:00:54.140426835Z
+    created: 2018-05-08T06:11:09.176355644Z
     description: A reverse proxy with OpenID Connect for Kubernetes Dashboard
     digest: 503ce28570e872369801f1150af0e96f50c9a60f2e441f69c7ceaa2b12ce7a45
     name: kubernetes-dashboard-proxy
     urls:
     - kubernetes-dashboard-proxy/kubernetes-dashboard-proxy-1.0.0.tgz
     version: 1.0.0
-generated: 2018-05-01T00:00:54.134380413Z
+generated: 2018-05-08T06:11:09.169466556Z
